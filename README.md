@@ -73,8 +73,8 @@ Imagens do teste:
 
 | **Fluxo de simulação** |
 | :---: |
-| **Defini a escala manualmente no múltimetro como corrente DC apenas para ficar diferente do que queremos** |
-![Defini a escala manualmente no múltimetro como corrente DC apenas para ficar diferente do que queremos](https://github.com/MattGrossi12/pyvisa_agilent_33500B_waveform_gen/blob/main/images/img1.png)
+| **Estado inicial do gerador de funções:** |
+![Estado inicial do gerador de funções:](https://github.com/MattGrossi12/pyvisa_agilent_33500B_waveform_gen/blob/main/images/img1.png)
 | **Chamamos o script python** |
 ![Chamos o script python](https://github.com/MattGrossi12/pyvisa_agilent_33500B_waveform_gen/blob/main/images/img2.png)
 | **O gerador de funções então aplica os parâmetros que definimos no header:** |
